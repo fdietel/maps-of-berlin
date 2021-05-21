@@ -1,5 +1,5 @@
 # maps-of-berlin
-creating interactive choropleth maps using [public](https://daten.berlin.de) demographic and residential data
+creating interactive choropleth maps using [public demographic and residential data](https://daten.berlin.de)
 
 in case of loading issues with Jupyter Notebook please use Jupyter NBViewer:
 
