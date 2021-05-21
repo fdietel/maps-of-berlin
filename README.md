@@ -3,4 +3,4 @@ creating interactive choropleth maps using [public demographic and residential d
 
 in case of loading issues with Jupyter Notebook please use Jupyter NBViewer:
 
-https://nbviewer.jupyter.org/github/fdietel/maps-of-berlin/blob/main/maps-of-berlin.ipynb
+https://nbviewer.jupyter.org/github/fdietel/maps-of-berlin/blob/main/maps_of_berlin.ipynb
